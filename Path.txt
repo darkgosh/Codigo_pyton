@@ -2,10 +2,10 @@ cd g:
 cd My\ Drive/
 cd Projectos\ de\ Software/
 cd PROYECTOS/
-cd Curso_GIT/
+cd Curso_Py
 cd PC_WINDOWS/
-cd Curso_Python/
-cd Codigo_pyton/
+ls
+
 
 
 
@@ -15,6 +15,6 @@ cd darkgoshmx@gmail.com\ -\ Google\ Drive
 cd Mi\ unidad
 cd Projectos\ de\ Software
 cd PROYECTOS
-cd Curso_GIT
+cd Codigo_pyton
 cd Branch_MAC_M1_UN
-cd Curso_GIT
+
