@@ -17,4 +17,5 @@ cd Projectos\ de\ Software
 cd PROYECTOS
 cd Codigo_pyton
 cd Branch_MAC_M1_UN
+ls
 
