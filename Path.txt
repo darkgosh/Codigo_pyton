@@ -1,0 +1,20 @@
+cd g:
+cd My\ Drive/
+cd Projectos\ de\ Software/
+cd PROYECTOS/
+cd Curso_GIT/
+cd PC_WINDOWS/
+cd Curso_Python/
+cd Codigo_pyton/
+
+
+
+#Path para MAC M1
+
+cd darkgoshmx@gmail.com\ -\ Google\ Drive
+cd Mi\ unidad
+cd Projectos\ de\ Software
+cd PROYECTOS
+cd Curso_GIT
+cd Branch_MAC_M1_UN
+cd Curso_GIT
