@@ -15,7 +15,7 @@ cd darkgoshmx@gmail.com\ -\ Google\ Drive
 cd Mi\ unidad
 cd Projectos\ de\ Software
 cd PROYECTOS
-cd Curso_pyton
+cd Curso_python
 cd Branch_MAC_M1_UN
 ls
 
