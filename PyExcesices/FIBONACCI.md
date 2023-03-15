@@ -11,3 +11,9 @@ The sequence continues forever:
 The Fibonacci sequence has application in music composition, stock market prediction, the pattern of florets in the head of sunflowersm and many others areas.
 
 This program lets you calculate the sequence as high as you are willing to go.
+
+# The Program in Action :
+
+When you run fibonacci.py the output will look like this:
+
+Fibonacci sequence, by Al Sweigart al@inventwithpython.com
