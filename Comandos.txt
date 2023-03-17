@@ -10,8 +10,6 @@ git branch -M main
 git remote add origin git@github.com:darkgosh/Codigo_pyton.git
 git push -u origin main
 
-
-
 git status
 git commit -m "Primer Comit para la carpeta Main de la PC Windows"
 git log
@@ -24,7 +22,6 @@ git config -l
 git remote add origin git@github.com:darkgosh/MasteryOfPineScript.git
 git branch -M main
 git push -u origin main
-
 
 git add .
 git add archivo.txt
