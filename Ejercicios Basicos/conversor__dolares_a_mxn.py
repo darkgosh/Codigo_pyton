@@ -6,4 +6,3 @@ pesos = dolares * valor_mxn
 pesos = round(pesos, 2)
 pesos = str(pesos)
 print("Tienes $" + pesos + " Pesos")
-# Esta linea solo es para generar cambio en GIT

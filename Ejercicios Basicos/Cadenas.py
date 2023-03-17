@@ -7,7 +7,7 @@
 #         print(' @ ', end='')
 #     print('')
 
-# Esta linea solo es para generar cambio en GIT
+
 
 # Ejercicio 5
 # Escribir un programa que pregunte al usuario una cantidad a invertir, 

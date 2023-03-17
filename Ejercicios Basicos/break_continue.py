@@ -3,12 +3,12 @@ def run():
     #     if contador % 2 != 0:
     #         continue
     #     print(contador)
-    # Esta linea solo es para generar cambio en GIT
+
     # for i in range(10000):
     #     print(i)
     #     if i == 5678:
     #         break
-# Esta linea solo es para generar cambio en GIT
+
     # texto = input('Escribe un texto: ')
     # for letra in texto:
     #     if letra == 'o':

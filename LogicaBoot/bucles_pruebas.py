@@ -22,12 +22,13 @@
 #         potencia_2 = 2**contador
 
 def run():
-    TARGET = 50
-    precio = 0
+    TARGET = 1500
+    precio = 1
     while precio <= TARGET:
         print('Precio de  MERCADO:  ' + str(precio))
         precio= precio+1
-    print('Posicion abierta: ' + str(precio-1))
- 
+    print('Posicion abierta: ' + str(precio))
+
+
 if __name__ == '__main__':
     run()

@@ -16,7 +16,7 @@ def run():
     frase = input(' escribe una frase: ')
     for caracter in frase:
         print(caracter.upper())
-# Esta linea solo es para generar cambio en GIT
+
 
 
     # encriptado = list(input ('escribe una contraseña'))

@@ -6,7 +6,7 @@ def palindromo(palabra):
         return True
     else:
         return False
-# Esta linea solo es para generar cambio en GIT
+
 
 def run():
     palabra = input('Escribe una palabra: ')

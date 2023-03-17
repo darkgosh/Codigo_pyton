@@ -10,7 +10,7 @@ def es_primo(numero):  # funcion es_primo que mandare llamar en el programa
     else:
         return False            
 
-# Esta linea solo es para generar cambio en GIT
+
 
 
 def run():

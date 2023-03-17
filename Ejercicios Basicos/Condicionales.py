@@ -3,7 +3,7 @@
 #    print("Eres Mayor de edad")
 #else:
 #    print("Eres Menor de edad")
-# Esta linea solo es para generar cambio en GIT
+
 numero = int(input('Escribe un numero: '))
 
 

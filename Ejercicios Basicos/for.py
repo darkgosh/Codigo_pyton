@@ -19,4 +19,4 @@ for i in range(0,10): #imprime la tabla del 11
 
 for i in range(0,11): #imprime la tabla del 7
     print(7*i)
-# Esta linea solo es para generar cambio en GIT
+
