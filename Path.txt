@@ -2,12 +2,9 @@ cd g:
 cd My\ Drive/
 cd Projectos\ de\ Software/
 cd PROYECTOS/
-cd Curso_Py
+cd Curso_Python
 cd PC_WINDOWS/
 ls
-
-
-
 
 #Path para MAC M1
 
@@ -16,5 +13,5 @@ cd Mi\ unidad
 cd Projectos\ de\ Software
 cd PROYECTOS
 cd Codigo_pyton
-cd Branch_MAC_M1_UN
-
+cd Branch_MAC_M1
+ls
