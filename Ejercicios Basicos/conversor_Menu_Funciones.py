@@ -15,8 +15,6 @@ Bienvenido al conversor de monedas
 
 Elige una opcion """
 
-
-
 opcion = int(input(menu))
 
 if opcion == 1:
