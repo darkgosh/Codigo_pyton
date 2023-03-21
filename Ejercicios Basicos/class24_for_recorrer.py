@@ -1,27 +1,20 @@
-# def run():
-#     # nombre = input('Escribe tu nombre: ')
-#     # for letra in nombre:
-#     #     print(letra)
-#     frase = input('Escribe una frase: ')
-#     for caracter in frase:
-#         print(caracter.upper())
+"""
+Curso Basico de Python
+Clase No.24 For_ recorrer
+@Platzi
+@Darkgosh
+V1.0
+Date: 20/03/2023
+"""
 
-# if __name__ == '__main__':
-#     run()
 def run():
-    # nombre = input('Escribe un nombre: ')
-    # for letra in nombre:
-    #     print(letra)
-    
-    frase = input(' escribe una frase: ')
+    nombre = input('Escribe tu nombre: ')
+    for letra in nombre:
+        print(letra)
+    frase = input('Escribe una frase: ')
     for caracter in frase:
         print(caracter.upper())
 
-
-
-    # encriptado = list(input ('escribe una contraseña'))
-    # for Pasw in encriptado:
-    #     print (Pasw + 'aeñk')
 
 if __name__ == '__main__':
     run()
