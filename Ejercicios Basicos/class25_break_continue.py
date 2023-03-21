@@ -1,3 +1,12 @@
+"""
+Curso Basico de Python
+Clase No.25 Break and Continue
+@Platzi
+@Darkgosh
+V1.0
+Date: 21/03/2023
+"""
+
 def run():
     # for contador in range (1000):
     #     if contador % 2 != 0:
