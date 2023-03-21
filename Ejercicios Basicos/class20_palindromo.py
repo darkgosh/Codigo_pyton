@@ -10,10 +10,10 @@ Nota: Un palindromo es una palabra que se lee igual alderecho y al reves ejemplo
 
 
 def palindromo(palabra):
-    palabra = palabra.replace(' ', '')
-    palabra = palabra.lower()
-    palabra_invertida = palabra[::-1]
-    if palabra == palabra_invertida:
+    palabra = palabra.replace(' ', '') #elimina los espacios
+    palabra = palabra.lower() #va convertir todas las letras minusculas
+    palabra_invertida = palabra[::-1] # va leer la palabra desde el final al principio
+    if palabra == palabra_invertida: # compara la palabra con palabra invertida
         return True
     else:
         return False
