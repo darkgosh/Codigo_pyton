@@ -1,11 +1,22 @@
-# print('esta es una prueba')
+"""
+Curso Basico de Python
+Clase No.23 Ciclo For
+@Platzi
+@Darkgosh
+V1.0
+Date: 20/03/2023
+"""
 
-# contador = 1
-# print(contador)
-# while contador < 100:
-#     contador = contador +1
-#     print(contador)
+#print('esta es una prueba')
 
+contador = 0
+#print(contador)
+while contador < 10:
+    contador += 1 # esto es igual a ' contador = contador + 1 '
+    print(contador)
+
+
+"""
 a = list(range(1001)) #imprime una lista del 0 al 1000
 print(a)
 
@@ -19,4 +30,4 @@ for i in range(0,10): #imprime la tabla del 11
 
 for i in range(0,11): #imprime la tabla del 7
     print(7*i)
-
+"""
