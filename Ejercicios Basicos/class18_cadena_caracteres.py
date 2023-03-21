@@ -1,6 +1,6 @@
 """
 Curso Basico de Python
-Clase No.18
+Clase No.18 Metodos con Cadenas de Caracteres.
 @Platzi
 @Darkgosh
 V1.0
