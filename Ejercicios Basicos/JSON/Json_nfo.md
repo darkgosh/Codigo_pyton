@@ -15,16 +15,18 @@ Aprenderás:
 
 
  Introducción: ¿Qué es JSON?
-image-98
+
+JSON = Java Script Object Notation
+
 El formato JSON fue inspirado por la sintaxis de JavaScript (un lenguaje de programación usado para desarrollo web). Pero desde entonces se ha convertido en un formato de datos independiente del lenguaje de programación. La mayoría de los lenguajes de programación que usamos hoy en día pueden generar y leer JSON.
 
-Importancia y usos de JSON
+## Importancia y usos de JSON
 JSON es un formato usado para almacenar o representar datos. Sus usos más frecuentes incluyen desarrollo web y creación de archivos de configuración.
 
 Veamos por qué:
 
-Desarrollo web: JSON se usa comúnmente en aplicaciones web para enviar información desde el servidor al cliente o desde el cliente al servidor.
-image-65
+* Desarrollo web: JSON se usa comúnmente en aplicaciones web para enviar información desde el servidor al cliente o desde el cliente al servidor.
+image-65 <image src="/Imagenes/image-65.png" alt="imagen">
 Archivos de configuración: el formato JSON también es usado para almacenar configuraciones y ajustes. Por ejemplo, para crear una aplicación para Chrome, debes incluir un archivo JSON llamado manifest.json para especificar el nombre de la aplicación, su descripción, versión actual y otras propiedades.
 image-99
 🔸 Estructura y formato JSON
