@@ -30,6 +30,7 @@ image-99
 🔸 Estructura y formato JSON
 Ahora que ya sabes cómo se usa el formato JSON, veamos su estructura básica con un ejemplo que representa una orden de pizza:
 
+'''
 { 
 	"tamano": "mediana",
 	"precio": 15.67,
@@ -42,6 +43,7 @@ Ahora que ya sabes cómo se usa el formato JSON, veamos su estructura básica co
 		"correo": "janedoe@email.com"
 	}
 }
+'''
 Ejemplo de archivo JSON
 💡 Dato: no se incluyen acentos en los ejemplos para evitar cualquier incompatibilidad entre JSON y caracteres especiales.
 
