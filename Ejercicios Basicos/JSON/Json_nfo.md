@@ -30,7 +30,7 @@ image-99
 🔸 Estructura y formato JSON
 Ahora que ya sabes cómo se usa el formato JSON, veamos su estructura básica con un ejemplo que representa una orden de pizza:
 
-'''
+'''javascript
 { 
 	"tamano": "mediana",
 	"precio": 15.67,
