@@ -1,6 +1,10 @@
 # Importar el módulo
 import json
+import os
 
+directorio = os.getcwd()
+directorio_actual = directorio + "\Ejercicios Basicos\JSON"
+print("El directorio Actual es: ",directorio_actual)
 
 # json.<funcion>(<args>) Sintaxis para llamar la funcion definida en el modul json
 
@@ -29,7 +33,6 @@ print(datos_diccionario["toppings"])
 print(datos_diccionario["cliente"])
 
 
-
 """ crear una cadena de caracteres en formato JSON a partir de un objeto (por ejemplo, 
     un diccionario) para mostrarla, guardarla, o usarla como una cadena de caracteres en el programa.
     Para hacerlo, puedes usar la función dumps del módulo json, pasando el objeto como argumento 
@@ -56,23 +59,25 @@ cliente_JSON = json.dumps(cliente,indent=2,sort_keys=True)
 print("\n",cliente_JSON1,"\n")
 print("\n",cliente_JSON,"\n")
 
-with open("Ejercicios Basicos\JSON\ordenes.jsonn") as archivo:
+with open(directorio_actual + "\ordenes.json") as archivo:
     datos = json.load(archivo)
     print("\n",datos,"\n")
     print(len(datos["ordenes"]),"\n") #El resultado es 2 porque el valor de la clave principal "orders" es una lista con dos elementos.
     print(datos["ordenes"][0]["toppings"],"\n")
 
 
-# # Abrir el archivo ordenes.json
-# with open("G:\My Drive\Projectos de Software\PROYECTOS\Curso_Python\PC_WINDOWS\Ejercicios Basicos\JSON\ordenes.json") as archivo:
-#     # Cargar su contenido y crear un diccionario
-#     datos = json.load(archivo)
+# Abrir el archivo ordenes.json
+with open(directorio_actual + "\ordenes.json") as archivo:
+    # Cargar su contenido y crear un diccionario
+    datos = json.load(archivo)
 
-#     # Eliminar el par clave-valor "cliente" de cada orden
-#     for orden in datos["ordenes"]:
-#         del orden["cliente"]
+    # Eliminar el par clave-valor "cliente" de cada orden
+    for orden in datos["ordenes"]:
+        del orden["cliente"]
 
-# # Abrir (o crear) un archivo ordenes_nuevo.json 
-# # y guardar la nueva versión de la información
-# with open("ordenes_nuevo.json", 'w') as archivo_nuevo:
-#     json.dump(datos, archivo_nuevo) Ejercicios Basicos\JSON\ordenes.json
+# Abrir (o crear) un archivo ordenes_nuevo.json 
+# y guardar la nueva versión de la información
+with open(directorio_actual + "\ordenes_nuevo.json", 'w') as archivo_nuevo:
+    json.dump(datos, archivo_nuevo,indent=4)
+
+

@@ -27,7 +27,7 @@ Veamos por qué:
 
 * Desarrollo web: JSON se usa comúnmente en aplicaciones web para enviar información desde el servidor al cliente o desde el cliente al servidor.
 
-image-65 <image src="/images/image-65.png" alt="imagen">
+<image src="/images/image-65.png" alt="imagen">
 
 Archivos de configuración: el formato JSON también es usado para almacenar configuraciones y ajustes. Por ejemplo, para crear una aplicación para Chrome, debes incluir un archivo JSON llamado manifest.json para especificar el nombre de la aplicación, su descripción, versión actual y otras propiedades.
 image-99
