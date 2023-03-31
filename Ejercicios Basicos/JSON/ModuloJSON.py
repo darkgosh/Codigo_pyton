@@ -81,3 +81,15 @@ with open(directorio_actual + "\ordenes_nuevo.json", 'w') as archivo_nuevo:
     json.dump(datos, archivo_nuevo,indent=4)
 
 
+# load() VS loads()
+"""
+Dato: Piensa en loads() como "load string" (cargar cadena de caracteres). 
+Esto te ayudará a identificar la función que se usa para cada propósito.
+"""
+
+
+# dump() VS dumps()
+"""
+Dato: Piensa en dumps() como "dump string" (dump cadena de caracteres) 
+y esto te ayudará a identificar la función que se usa para cada propósito.
+"""
