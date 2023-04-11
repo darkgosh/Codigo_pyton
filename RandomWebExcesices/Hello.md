@@ -100,3 +100,8 @@ ___
 
 <!-- Github Markdown cheat sheet -->
 [Github Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Custom Title")
+
+
+
+
+[Markdown, Curso Práctico para principiantes y desarrolladores](https://www.youtube.com/watch?v=oxaH9CFpeEE)
