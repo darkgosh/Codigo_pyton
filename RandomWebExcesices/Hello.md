@@ -84,5 +84,7 @@ ___
 ![Visual estudio code logo](imagenes/VSC_ico.png)
 
 
-<!-- Linea de codigo -->
+<!-- Tagear usuarios  -->
+ @revidana :thumbsup: :cloud:
+
 <!-- Linea de codigo -->
