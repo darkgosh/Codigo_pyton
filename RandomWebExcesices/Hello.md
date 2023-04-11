@@ -87,4 +87,16 @@ ___
 <!-- Tagear usuarios  -->
  @revidana :thumbsup: :cloud:
 
-<!-- Linea de codigo -->
+<!-- insertar emogis -->
+
+[Lista de Emogis para Github y Gist](https://gist.github.com/rxaviers/7360908)
+
+|:thumbsup: |:cloud: |:smile: |
+|-----------|--------|--------|
+|:sunny:    |:cat:   |:tiger: |
+|-----------|--------|--------|
+
+
+
+<!-- Github Markdown cheat sheet -->
+[Github Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Custom Title")
