@@ -1,3 +1,4 @@
-# Diseño del algorimo para hacer arbitrage de dolares en un varios ciclos de intercambios
+# Diseño del algorimo para hacer arbitraje de dolares en un varios ciclos de intercambios
 
 
+ 

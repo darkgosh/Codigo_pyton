@@ -29,6 +29,7 @@ Veamos por qué:
 
 <image src="/images/image-65.png" alt="imagen">
 
+
 Archivos de configuración: el formato JSON también es usado para almacenar configuraciones y ajustes. Por ejemplo, para crear una aplicación para Chrome, debes incluir un archivo JSON llamado manifest.json para especificar el nombre de la aplicación, su descripción, versión actual y otras propiedades.
 image-99
 🔸 Estructura y formato JSON
@@ -187,7 +188,7 @@ El resultado es:
 
 mediana
 15.67
-['champinones', 'queso extra', 'pepperoni', 'albahaca']
+['champiñones', 'queso extra', 'pepperoni', 'albahaca']
 {'nombre': 'Jane Doe', 'telefono': '455-344-234', 'correo': 'janedoe@email.com'}
 Exactamente lo que esperábamos. Cada clave puede ser usada para acceder a su valor correspondiente.
 
