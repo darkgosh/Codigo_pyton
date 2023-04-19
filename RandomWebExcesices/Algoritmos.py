@@ -19,6 +19,7 @@ Date: 18/04/2023
 
 #video juego pokemon pikachu contra jigglypop 
 
+"""
 pika_vida = 100
 pika_ataque = 55
 jiggly_vida = 100
@@ -41,3 +42,6 @@ if pika_vida >= 0:
     print("Pikachu es el Ganador !!!")
 else: 
     print("Jigglypop es el Ganador !!!")
+
+"""
+
