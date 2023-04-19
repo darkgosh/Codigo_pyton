@@ -31,10 +31,13 @@ while pika_vida > 0 and jiggly_vida > 0:
         print("Jigglypop tiene todavia " + str(jiggly_vida) + " de vida")
         turno = 0
         print("Termina el Turno de Pikachu ")
-    else:
+    elif turno == 0:
         pika_vida = pika_vida - jiggly_ataque
         print("Pikachu tiene todavia " + str(pika_vida) + " de vida")
         turno = 1
         print("Termina el Turno de Jigglypop ")
 
-
+if pika_vida >= 0:
+    print("Pikachu es el Ganador !!!")
+else: 
+    print("Jigglypop es el Ganador !!!")
