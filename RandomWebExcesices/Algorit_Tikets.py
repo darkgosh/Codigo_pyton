@@ -28,7 +28,6 @@ avi_max = 20
 bus_max = 40
 
     
-
 while avi_max and bus_max >= 0:
     print("Bienvenido al Marketplace del Viajes Ren ")
     opcion = int(input('Escribe 1 para compra de Boletos de Avion y 2 para la compra de boletos de Autobus : '))
