@@ -11,7 +11,6 @@ Date: 18/04/2023
 
 # num = 0
 # count = 50
-
 # while count > 0:
 #     print(num)
 #     num = num + 2

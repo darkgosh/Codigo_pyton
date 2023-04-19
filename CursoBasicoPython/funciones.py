@@ -1,11 +1,11 @@
-'''def imprimir_mensaje():
-    print('Mensaje especial:')
-    print('¡Estoy aprendiendo a usar funciones!')
+# def imprimir_mensaje():
+#     print('Mensaje especial:')
+#     print('¡Estoy aprendiendo a usar funciones!')
 
-imprimir_mensaje()
-imprimir_mensaje()
-imprimir_mensaje()
-'''
+# imprimir_mensaje()
+# imprimir_mensaje()
+# imprimir_mensaje()
+
 '''
 def conversacion(mensaje):
     print('Hola')
@@ -28,9 +28,9 @@ else:
 
     
 def suma(a,b):
-    print('Se suman 2 numeros')
-    resultado = a + b
-    return resultado
+     print('Se suman 2 numeros')
+     resultado = a + b
+     return resultado
 
 sumatoria = suma(1, 4)
 print(sumatoria)
