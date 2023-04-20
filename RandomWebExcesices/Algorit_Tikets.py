@@ -27,6 +27,14 @@ lugar = 0
 avi_max = 20
 bus_max = 40
 
+
+def datos_ticket():
+    ciudad_origen = input("") 
+    ciudad_destino = input("") 
+    fecha = input("") 
+    hora = input("") 
+    print(datos_ticket)
+    
     
 while avi_max and bus_max >= 0:
     print("Bienvenido al Marketplace del Viajes Ren ")
@@ -46,12 +54,6 @@ while avi_max and bus_max >= 0:
     else:
         print('escribe la opcion correcta')
 
-def datos_ticket():
-    ciudad_origen = input("") 
-    ciudad_destino = input("") 
-    fecha = input("") 
-    hora = input("") 
-    return datos_ticket
 
 
 
