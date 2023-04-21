@@ -24,33 +24,39 @@ En una empresa de viajes se requiere realizar la venta de tickets teniendo en cu
  * Debes asignar los puestos de cada medio de transporte conforme al orden de compra.
 """
 lugar = 0
+# avi_max = 20
+# bus_max = 40
 avi_max = 20
 bus_max = 40
+def datos_ticket(libres, max):
 
-
-def datos_ticket():
-    ciudad_origen = input("") 
-    ciudad_destino = input("") 
-    fecha = input("") 
-    hora = input("") 
-    print(datos_ticket)
+    libres = max -libres
+    ciudad_origen = input("Dame la direccion de origen: ") 
+    ciudad_destino = input("Dame el destinoÑ ") 
+    fecha = input("Dame la Fecha: ") 
+    hora = input("Dame la hora: ") 
+    return(ciudad_destino,ciudad_origen,fecha,hora, libres)
     
     
-while avi_max and bus_max >= 0:
+while avi_max > 0 or bus_max > 0:
     print("Bienvenido al Marketplace del Viajes Ren ")
     opcion = int(input('Escribe 1 para compra de Boletos de Avion y 2 para la compra de boletos de Autobus : '))
     if opcion == 1:
         print('Elegiste opcion 1 Ticket de Avion ')
         print("Seleccionaste transporte por Avion: ")
         lugar= int(input("¿Cuantos lugares necesitas?: "))
-        avi_max = avi_max - lugar
-        datos_ticket()
+        #avi_max = avi_max - lugar
+        ticket = datos_ticket(lugar, avi_max)
+        avi_max =int(ticket[4])
+        print(ticket)
+
     elif opcion == 2:
         print('Elegiste opcion 2 Ticket de Autobus')
         print("Seleccionaste transporte por Autobus: ")
         lugar= int(input("¿Cuantos lugares necesitas?: "))
-        bus_max = bus_max - lugar
-        datos_ticket()
+        ticket = datos_ticket(lugar, bus_max)
+        bus_max =int(ticket[4])
+        print(ticket)
     else:
         print('escribe la opcion correcta')
 
