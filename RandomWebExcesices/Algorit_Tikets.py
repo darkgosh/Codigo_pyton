@@ -45,7 +45,6 @@ while avi_max > 0 or bus_max > 0:
         print('Elegiste opcion 1 Ticket de Avion ')
         print("Seleccionaste transporte por Avion: ")
         lugar= int(input("¿Cuantos lugares necesitas?: "))
-        #avi_max = avi_max - lugar
         ticket = datos_ticket(lugar, avi_max)
         avi_max =int(ticket[4])
         print(ticket)
