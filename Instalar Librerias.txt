@@ -14,3 +14,9 @@ pip install pillow
 
 pip install docxtpl
 pip install docx
+
+
+
+Para actualizar un paquete concreto con pip a la última versión, ejecuta el siguiente comando:
+
+$> pip install -U <nombre del paquete>
