@@ -23,10 +23,12 @@ IMAGE_PATH = '.\Inputs\Images'
 ############# Configuracion de Usuario ##############
 
 # Rutina para eliminar y crear carpetas
-def EliminarCrearCarpetas(path)
+def EliminarCrearCarpetas(path):
     #Verificar si la carpeta existe y eliminarla
     if(os.path.exists(path)):
         shutil.rmtree(path)
     #Crear carpeta de salida
     os.mkdir(OUTPUT_PATH)    
-    
+
+def main():
+    EliminarCrearCarpetas(OUTPUT_PATH)
