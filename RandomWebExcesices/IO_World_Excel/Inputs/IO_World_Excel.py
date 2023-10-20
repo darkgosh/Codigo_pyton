@@ -1,7 +1,7 @@
 import os
 import shutil
 import pandas
-from docxtpl import DocxTemplate, Inlineimage
+from docxtpl import DocxTemplate, InlineImage
 from docx.shared import Mm
 
 
