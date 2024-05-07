@@ -1,0 +1,22 @@
+pip install xlrd
+pip install xlwt
+
+# NameError: name 'datetime' is not defined
+pip install datetime
+
+pip install pandas
+
+pip install openpyxl
+
+#To be able to include images (jpeg, png, bmp,…) into an openpyxl file, you will also need the “pillow” library that can be installed with:
+pip install pillow 
+
+
+pip install docxtpl
+pip install docx
+
+pip install ffmpeg
+
+Para actualizar un paquete concreto con pip a la última versión, ejecuta el siguiente comando:
+
+$> pip install -U <nombre del paquete>
