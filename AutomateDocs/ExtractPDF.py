@@ -1,4 +1,4 @@
-import PyPDF2
+import PyPDF2 
 import os
 import re
 
@@ -14,7 +14,7 @@ def extract_invoice_info(pdf_file_path):
         for page_num in range(len(pdf_reader.pages)):
             page=pdf_reader.pages[page_num]
             text+= page.extract_text()
-        
+       
         # Regular expressions
         invoice_number_pattern = r'INVOICE\s*#\s*(\d+)'
         bill_to_pattern = r'Bills\s*To\s*:\s*(.*)'
