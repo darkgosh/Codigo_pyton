@@ -1,4 +1,6 @@
 {
     "git-blame.gitWebUrl": "",
-    "cSpell.language": "en,es"
+    "cSpell.language": "en,es",
+    "python.analysis.typeCheckingMode": "basic",
+    "python.analysis.autoImportCompletions": true
 }
