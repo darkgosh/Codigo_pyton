@@ -3,14 +3,36 @@
 # 2024-06-10
 
 '''
-Escribe un programa que solicite al usuario un número entero 
-y lo clasifique como positivo, negativo o cero.
+Crea una calculadora simple que permita al usuario realizar 
+operaciones básicas como suma, resta, multiplicación y división
 '''
-num = int(input(f"Dame un numero"))
 
-if num > 0:
-    print(f"El numero {num} es positivo ")
-elif num == 0:
-    print(f"El numero {num} es igual a cero")
+op = input("Ingrese el operador deseado (+, -, *, /): ")
+print(op)
+
+num1 = float(input("Dame el primer numero: "))
+num2 = float(input("Dame el primer segundo: "))
+
+if op == "+":
+    resultado = num1 + num2
+    print("El resultado de la Suma es: ")
+    print(resultado)
+elif op == "-":
+    resultado = num1 - num2
+    print("El resultado de la Resta es: ")
+    print(resultado)
+elif op == "*":
+    resultado = num1 * num2
+    print("El resultado de la Resta es: ")
+    print(resultado)
+elif op == "/":
+  if num2 != 0:
+    resultado = num1 / num2
+    print("El resultado de la Resta es: ")
+    print(resultado)
+  else:
+     print("no se puede dividir entre cero")
 else:
-    print(f"El numero {num} es Negativo")
+   print("El operador no es valido")
+
+  
