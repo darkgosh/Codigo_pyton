@@ -17,3 +17,7 @@ ls
 #Path MasteryOfPineScript
 cd G:/My\ Drive/Projectos\ de\ Software/PROYECTOS/Curso_PineScript/Pine\ Scripts/MasteryOfPineScript/PC_WINDOWS/
 ls
+
+#path Galo_Solutions Home-Office
+cd i:/My\ Drive/Galo_Solutions
+ls
