@@ -1,7 +1,6 @@
 # @darkgosh Ejercicio proporcionados por IAs
 # Practica de Estructuras de control
-# Date....
-
+#2024-06-21
 '''
 Clasificación de edades
 Escribe un programa que solicite al usuario su edad y muestre un mensaje en función del rango de edad:
