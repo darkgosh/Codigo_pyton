@@ -1,13 +1,13 @@
 # @darkgosh Ejercicio proporcionados por IAs
 # Practica de Estructuras de control
-# 2024-06-10
+# Date....
 
 '''
-Determina si un año ingresado por el usuario es bisiesto o no.
+Descripcion delejercicio......
 '''
-anio = int(input("Ingrese un año: "))
+#solicita datos
 
-if (anio % 4 == 0) and (anio % 100 != 0) or (anio % 400 == 0):
-  print(f"El año {anio} es bisiesto.")
-else:
-  print(f"El año {anio} no es bisiesto.")
+#Estructura de control
+
+#imprime mensaje
+
