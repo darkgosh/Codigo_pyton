@@ -1,4 +1,4 @@
-# @darkgosh Ejercicio proporcionados por IAs
+# @darkgosh Ejercicio proporcionados por https://aprendeconalf.es/
 # Practica de Estructuras de control
 # Date....
 
