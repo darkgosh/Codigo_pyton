@@ -1,9 +1,9 @@
-# @darkgosh Ejercicio proporcionados por IAs
+# @darkgosh Ejercicio proporcionados por https://aprendeconalf.es/
 # Practica de Estructuras de control
 # Date....
 
 '''
-Descripcion delejercicio......
+Escribir un programa que pida al usuario una palabra y la muestre por pantalla 10 veces
 '''
 #solicita datos
 

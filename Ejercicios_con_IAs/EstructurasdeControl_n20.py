@@ -1,13 +1,18 @@
-# @darkgosh Ejercicio proporcionados por IAs
+# @darkgosh Ejercicio proporcionados por https://aprendeconalf.es/
 # Practica de Estructuras de control
 # Date....
 
 '''
-Descripcion delejercicio......
+Escribir un programa que pida al usuario un número entero positivo 
+y muestre por pantalla todos los números impares desde 1 hasta ese número separados por comas.
 '''
 #solicita datos
 
+
+
 #Estructura de control
+
+
 
 #imprime mensaje
 
