@@ -2,7 +2,6 @@
 # Practica de Estructuras de control
 # 2024-06-21
 
-
 '''
 Menú de opciones
 
@@ -17,24 +16,47 @@ correspondiente a la opción seleccionada por el usuario.
 '''
 #solicita datos
 opcion = input("Elige una Opcion,Para Calcular el area de: \n Cuadrado 'A'\n Triangulo 'B'\n Circulo 'C'")
-def switch_menu(opcion):
-    opciones = {
-        'A': 
-    }
-
 
 #Estructura de control
+def switch_menu(opcion): #Estructura de control
+    if opcion == 'A':
+        lado = float(input("Cuando mide el lado del cuadrado: "))
+        calculo = lado**2
+        msg = "El area del cuadrado es:" 
+        return  msg , calculo
+    elif opcion == 'B':
+        base = float(input("Cuando mide la base: "))
+        altura = float(input("Cuando mide el altura: "))
+        calculo = (base * altura) / 2
+        msg = "El area del Triangulo es:" 
+        return  msg , calculo
+    elif opcion == 'C':
+        radio = float(input("Cuando mide el radio: "))
+        pi = 3.1416
+        calculo = (pi * radio) **2
+        msg = "El area del Circulo es:" 
+        return  msg , calculo
+    else:
+        return "Opción no válida"
+    
+
+print(switch_menu(opcion))  # Imprime Opcion deseada
 
 
 #imprime mensaje
 
-def switch_ejemplo(opcion):
-    opciones = {
-        'a': "Has elegido la opción A",
-        'b': "Has elegido la opción B",
-        'c': "Has elegido la opción C"
-    }
-    return opciones.get(opcion, "Opción no válida")
+'''
+opcion = input("Elige una Opcion,Para Calcular el area de: \n Cuadrado 'a'\n Triangulo 'b'\n Circulo 'c'")
 
-opcion = input("Elige una opción (a, b, c): ")
-print(switch_ejemplo(opcion))
+def switch_ejemplo(opcion):
+    if opcion == 'a':
+        return "Has elegido la opción A"
+    elif opcion == 'b':
+        return "Has elegido la opción B"
+    elif opcion == 'c':
+        return "Has elegido la opción C"
+    else:
+        return "Opción no válida"
+
+print(switch_ejemplo(opcion))  # Imprime: Has elegido la opción C
+'''

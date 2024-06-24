@@ -13,7 +13,10 @@ Utiliza un ciclo for para recorrer el rango de números y verificar si cada uno 
 
 
 #Estructura de control
-
+for i in range(1, 4):
+    for j in range(1, 4):
+        print(f"{i} x {j} = {i*j}", end="\t")
+    print()  # Nueva línea después de cada fila
 
 #imprime mensaje
 
