@@ -10,9 +10,9 @@ sin tener en cuenta mayúsculas y minúsculas.
 '''
 #solicita datos
 con = input("Hola dame la contrasenia de acceso: ")
-PASSWORD = "123456."
+PASSWORD = "reNato"
 #Estructura de control
-if con == PASSWORD:
+if con.lower() == PASSWORD.lower():
     print("Acceso concedido: ")
 else:
     print("Incorrecct password !!")
