@@ -22,7 +22,7 @@ así como la cantidad de dinero que recibirá el usuario.
 empleados = ["Renato", "Manuel", "Adán", "Fernando", "Helenita", "Nubis"]  
 
 calificaciones = []  # Lista para almacenar las calificaciones
-note = [] # Lista para almacenar las las notas deacuerdo a su bono
+note = [] # Lista para almacenar las las notas y elcalculo del bono segun su calificacion
 for empleado in empleados:
     calificacion = input(f"Ingrese la calificación de {empleado} (I/A/M): ").upper()  # Convertir la entrada a mayúsculas
     while calificacion not in ["I", "A", "M"]:  # Validar la entrada
