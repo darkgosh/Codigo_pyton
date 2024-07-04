@@ -10,10 +10,8 @@ y muestre por pantalla todos los números impares desde 1 hasta ese número sepa
 num = int(input("Dame un numero entero"))
 
 #Estructura de control
-for i in range(num):
-    cosiente = num % 2
-    if cosiente !=0:
-        print ("Numeros impares {cosiente}")
+for i in range(1, num+1, 2):
+    print (f"Numeros impares {i}")
     
 
 
