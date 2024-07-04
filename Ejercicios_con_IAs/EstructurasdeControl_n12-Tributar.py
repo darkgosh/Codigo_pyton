@@ -1,6 +1,6 @@
 # @darkgosh Ejercicio proporcionados por https://aprendeconalf.es/
 # Practica de Estructuras de control
-# Date....
+# Date 20240703
 
 '''
 Para tributar un determinado impuesto se debe ser mayor de 16 años 

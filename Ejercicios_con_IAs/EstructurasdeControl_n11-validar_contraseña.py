@@ -1,6 +1,6 @@
 # @darkgosh Ejercicio proporcionados por https://aprendeconalf.es/
 # Practica de Estructuras de control
-# 2024-06-21
+# 2024-06-21, update 20240703
 
 '''
 Escribir un programa que almacene la cadena de caracteres contraseña en una variable, 
