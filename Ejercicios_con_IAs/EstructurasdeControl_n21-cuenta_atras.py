@@ -8,10 +8,11 @@ y muestre por pantalla la cuenta atrás desde ese número hasta cero separados p
 '''
 #solicita datos
 
-
+num = int(input("Dame un numero entero positivo: "))
 
 #Estructura de control
-
+for i in range(num,-1,-1):
+    print(f"{i}", end=", ")
 
 
 #imprime mensaje
