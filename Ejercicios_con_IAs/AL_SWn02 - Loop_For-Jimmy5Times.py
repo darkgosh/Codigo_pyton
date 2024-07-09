@@ -1,8 +1,8 @@
-# Fuente: 
-# @Autor: 
+# Fuente:Ejercicio del Libro Automate the Boring Stuff with Python
+# @Al Sweigart
 # @darkgosh 
 # Practica de Loops
-# Date ....
+# Date 20240709
 
 '''
 Descripcion delejercicio......
