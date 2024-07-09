@@ -9,8 +9,7 @@ y el número de años, y muestre por pantalla el capital obtenido en la inversi�
 #solicita datos
 inv_inicial = float(input("Ingresa la cantida a Invertir: "))
 tasa = int(input("Bloquea la tasa en 1/3/5 Años: \n Para Tasa Anual, Teclea '1' \n Para Tasa a Tres Años, Teclea '3' \n Para Tasa a Cinco Años, Teclea '5' " ))
-year = 365
-int_compuesto = 0
+
 int_Anual1 = 0.11 / 12
 int_Anual3 = 0.13 / 12
 int_Anual5 = 0.145 / 12
