@@ -1,26 +1,26 @@
-- [ ] EstructurasdeControl_n01.py 
-- [ ] EstructurasdeControl_n02.py
-- [ ] EstructurasdeControl_n03.py
-- [ ] EstructurasdeControl_n04.py
-- [ ] EstructurasdeControl_n05.py
-- [ ] EstructurasdeControl_n06.py
-- [ ] EstructurasdeControl_n07.py
-- [ ] EstructurasdeControl_n08.py
-- [ ] EstructurasdeControl_n09.py
-- [ ] EstructurasdeControl_n10- Contar_Caraceres.py
-- [ ] EstructurasdeControl_n11-validar_contraseña.py
-- [ ] EstructurasdeControl_n12-Tributar.py
-- [ ] EstructurasdeControl_n13-Segregar_Sex_Nombre.py
-- [ ] EstructurasdeControl_n14-tramos_impositivos.py
-- [ ] EstructurasdeControl_n15-EvaluacionAnual.py
-- [ ] EstructurasdeControl_n16-VentaBoletosxEdad.py
-- [ ] EstructurasdeControl_n17-MenuPizzeria.py
-- [ ] EstructurasdeControl_n18-pantalla_10_veces.py
-- [ ] EstructurasdeControl_n19-muestre_todos_los_años.py
-- [ ] EstructurasdeControl_n20-numeros_impares.py
-- [ ] EstructurasdeControl_n21-cuenta_atras.py
-- [ ] EstructurasdeControl_n22-Calculo_Intereses.py
-- [ ] EstructurasdeControl_n23.py
+- [x] EstructurasdeControl_n01.py 
+- [x] EstructurasdeControl_n02.py
+- [x] EstructurasdeControl_n03.py
+- [x] EstructurasdeControl_n04.py
+- [x] EstructurasdeControl_n05.py
+- [x] EstructurasdeControl_n06.py
+- [x] EstructurasdeControl_n07.py
+- [x] EstructurasdeControl_n08.py
+- [x] EstructurasdeControl_n09.py
+- [x] EstructurasdeControl_n10- Contar_Caraceres.py
+- [x] EstructurasdeControl_n11-validar_contraseña.py
+- [x] EstructurasdeControl_n12-Tributar.py
+- [x] EstructurasdeControl_n13-Segregar_Sex_Nombre.py
+- [x] EstructurasdeControl_n14-tramos_impositivos.py
+- [x] EstructurasdeControl_n15-EvaluacionAnual.py
+- [x] EstructurasdeControl_n16-VentaBoletosxEdad.py
+- [x] EstructurasdeControl_n17-MenuPizzeria.py
+- [x] EstructurasdeControl_n18-pantalla_10_veces.py
+- [x] EstructurasdeControl_n19-muestre_todos_los_años.py
+- [x] EstructurasdeControl_n20-numeros_impares.py
+- [x] EstructurasdeControl_n21-cuenta_atras.py
+- [x] EstructurasdeControl_n22-Calculo_Intereses.py
+- [x] EstructurasdeControl_n23-pantalla_triangulo_rectángulo
 - [ ] EstructurasdeControl_n24.py
 - [ ] EstructurasdeControl_n25.py
 - [ ] EstructurasdeControl_n26_explotacion_datos-API-yfinances.py

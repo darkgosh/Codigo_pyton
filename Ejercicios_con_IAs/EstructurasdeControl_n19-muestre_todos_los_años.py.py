@@ -1,6 +1,6 @@
 # @darkgosh Ejercicio proporcionados por https://aprendeconalf.es/
 # Practica de Estructuras de control
-# Date....
+# Date 20240707
 
 '''
 Escribir un programa que pregunte al usuario su edad 
