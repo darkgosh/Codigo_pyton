@@ -5,10 +5,12 @@
 # Date 20240709
 
 '''
-Descripcion delejercicio......
+When you run this program, it should print Jimmy Five Times
 '''
 #solicita datos
-
+print('My name is')
+for i in range(5):
+    print('Jimmy Five Times (' + str(i) + ')')
 #Estructura de control
 
 #imprime mensaje
