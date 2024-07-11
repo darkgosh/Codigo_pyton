@@ -2,6 +2,7 @@
 # @Al Sweigart
 # @darkgosh 
 # Practica de Loops
+# (p. 109)
 # Date 20240709
 
 '''
