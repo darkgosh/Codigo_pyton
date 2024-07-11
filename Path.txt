@@ -1,5 +1,5 @@
 #Path Python
-cd G:/My\ Drive/Projectos\ de\ Software/PROYECTOS/Curso_Python/PC_WINDOWS/
+cd G:/My\ Drive/Projectos\ de\ Software/PROYECTOS/Curso_Python/
 ls
 
 #Path Proyecto_BOT_Trading
@@ -15,7 +15,7 @@ cd G:/My\ Drive/Projectos\ de\ Software/PROYECTOS/Curso_GIT/
 ls
 
 #Path MasteryOfPineScript
-cd G:/My\ Drive/Projectos\ de\ Software/PROYECTOS/Curso_PineScript/Pine\ Scripts/MasteryOfPineScript/PC_WINDOWS/
+cd G:/My\ Drive/Projectos\ de\ Software/PROYECTOS/Curso_MasteryOfPineScript/
 ls
 
 #path Galo_Solutions Home-Office
