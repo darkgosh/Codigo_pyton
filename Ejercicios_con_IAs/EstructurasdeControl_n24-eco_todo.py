@@ -8,11 +8,15 @@ introduzca hasta que el usuario escriba “salir” que terminará.
 '''
 #solicita datos
 
-
-
 #Estructura de control
-
-
-
+while True:
+    print("Hola escribeme algo: ")
+    mensaje = input()
+    if mensaje != 'Salir':
+        print(f"Eco {mensaje} !")
+        continue
+    if mensaje == 'Salir':
+        break
+print('Adios')
 #imprime mensaje
 

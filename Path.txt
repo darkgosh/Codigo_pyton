@@ -2,8 +2,8 @@
 cd G:/My\ Drive/Projectos\ de\ Software/PROYECTOS/Curso_Python/PC_WINDOWS/
 ls
 
-#Path Jupyter
-cd c:/users/renat/OneDrive/Jupyter/
+#Path Proyecto_BOT_Trading
+cd G:/My\ Drive/Projectos\ de\ Software/PROYECTOS/Proyecto_BOT_Trading
 ls
 
 #Path Obsidian
@@ -11,7 +11,7 @@ cd g:/My\ Drive/Obsidian
 ls
 
 #Path GIT
-cd G:/My\ Drive/Projectos\ de\ Software/PROYECTOS/Curso_GIT/PC_WINDOWS/
+cd G:/My\ Drive/Projectos\ de\ Software/PROYECTOS/Curso_GIT/
 ls
 
 #Path MasteryOfPineScript
@@ -20,4 +20,8 @@ ls
 
 #path Galo_Solutions Home-Office
 cd i:/My\ Drive/Galo_Solutions
+ls
+
+#Path Jupyter
+cd c:/users/renat/OneDrive/Jupyter/
 ls
