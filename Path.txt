@@ -1,9 +1,13 @@
-#Path Python
-cd G:/My\ Drive/Projectos\ de\ Software/PROYECTOS/Curso_Python/
+#Path Curso Python
+cd G:/My\ Drive/Software_Projects/PROYECTOS/Curso_Python/
+ls
+
+#Path Curso Flask
+cd G:/My\ Drive/Software_Projects/PROYECTOS/Curso_Flask/
 ls
 
 #Path Proyecto_BOT_Trading
-cd G:/My\ Drive/Projectos\ de\ Software/PROYECTOS/Proyecto_BOT_Trading
+cd G:/My\ Drive/Software_Projects/PROYECTOS/Proyecto_BOT_Trading
 ls
 
 #Path Obsidian
@@ -11,11 +15,11 @@ cd g:/My\ Drive/Obsidian
 ls
 
 #Path GIT
-cd G:/My\ Drive/Projectos\ de\ Software/PROYECTOS/Curso_GIT/
+cd G:/My\ Drive/Software_Projects/PROYECTOS/Curso_GIT/
 ls
 
 #Path MasteryOfPineScript
-cd G:/My\ Drive/Projectos\ de\ Software/PROYECTOS/Curso_MasteryOfPineScript/
+cd G:/My\ Drive/Software_Projects/PROYECTOS/Curso_MasteryOfPineScript/
 ls
 
 #path Galo_Solutions Home-Office
